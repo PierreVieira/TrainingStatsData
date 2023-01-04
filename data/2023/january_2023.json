@@ -1,0 +1,76 @@
+{
+  "year": 2023,
+  "month": 1,
+  "trained_days": {
+    "total": 2,
+    "days": [
+      2,
+      4
+    ]
+  },
+  "muscle_groups": {
+    "abdomen": [
+      {
+        "day": 2,
+        "number_of_types_of_exercises": 3
+      }
+    ],
+    "legs": [
+      {
+        "day": 4,
+        "number_of_types_of_exercises": 8
+      }
+    ],
+    "biceps": [],
+    "back": [],
+    "low_back": [
+      {
+        "day": 2,
+        "number_of_types_of_exercises": 1
+      }
+    ],
+    "shoulder": [
+      {
+        "day": 2,
+        "number_of_types_of_exercises": 3
+      }
+    ],
+    "triceps": [],
+    "chest": []
+  },
+  "exercises": {
+    "push up": [
+      {
+        "day": 2,
+        "quantity": 30
+      },
+      {
+        "day": 4,
+        "quantity": 33
+      }
+    ],
+    "pull up": [
+      {
+        "day": 2,
+        "quantity": 20
+      },
+      {
+        "day": 4,
+        "quantity": 15
+      }
+    ],
+    "running": [
+      {
+        "day": 2,
+        "time_minutes": "5:00",
+        "velocity_km_h": "11.5"
+      }
+    ],
+    "cycle": [
+      {
+        "day": 4,
+        "time_minutes": "5:00"
+      }
+    ]
+  }
+}
