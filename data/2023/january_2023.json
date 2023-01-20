@@ -135,6 +135,52 @@
           }
         ]
       }
+    },
+    {
+      "day": 16,
+      "data": {
+        "muscle_groups": [
+          {
+            "name": "legs",
+            "number_of_types_of_exercises": 6
+          }
+        ],
+        "exercises": [
+          {
+            "name": "pull_up",
+            "quantity": 15
+          }
+        ]
+      }
+    },
+    {
+      "day": "18",
+      "data": {
+        "muscle_groups": [
+          {
+            "name": "chest",
+            "number_of_types_of_exercises": 4
+          },
+          {
+            "name": "abdomem",
+            "number_of_types_of_exercises": 3
+          },
+          {
+            "name": "triceps",
+            "number_of_types_of_exercises": 2
+          }
+        ],
+        "exercises": [
+          {
+            "name": "push_up",
+            "quantity": 30
+          },
+          {
+            "name": "pull_up",
+            "quantity": 15
+          }
+        ]
+      }
     }
   ]
 }
